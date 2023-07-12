@@ -1,2 +1,2 @@
-# respositorio para practicat git pull
+# respositorio para practicat git pull otra vez
 repositorio para practicar
